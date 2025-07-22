@@ -1,4 +1,4 @@
-# VJ Forward Bot
+# Forward Bot
 
 <b>Auto Restart All User Forwarding After Bot Restarted.</b>
 
@@ -14,7 +14,7 @@
 - [x] Auto Restart Pending Task After Bot Restart 
 
 
-<b>To Know About All Features, Join My <a href='https://t.me/VJ_Botz'>Update Channel</a>.</b>
+<b>To Know About All Features, Join My <a href=''>Update Channel</a>.</b>
 
 ## Commands
 
@@ -37,7 +37,3 @@ broadcast - broadcast a message to all your users (owner only)
 * `BOT_TOKEN` Bot token from @BotFather
 * `BOT_OWNER` Telegram Account Id of Owner.
 * `DATABASE_URI` Database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)
-
-## Credits
-
-* <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
